@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="don_t_have_account">¿No tienes una cuenta? <font color="#C58BF2">Regístrate</font></string>
+    <string name="login">Iniciar sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="welcome_back">Bienvenido a StoryApp</string>
+    <string name="hey_there">Hola</string>
+    <string name="password_minimum_character">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="name">Nombre</string>
+    <string name="already_have_account">¿Ya tienes una cuenta? <font color="#C58BF2">Iniciar sesión</font></string>
+    <string name="login_failed">Error al iniciar sesión, inténtalo de nuevo..</string>
+    <string name="register_failed">Error al registrarse, inténtalo de nuevo..</string>
+    <string name="register_success">Registro exitoso, inicia sesión..</string>
+    <string name="register">Registrarse</string>
+    <string name="description">Descripción</string>
+    <string name="upload">Subir</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="please_choose_image">Selecciona un archivo de imagen primero.</string>
+    <string name="add_story_success">¡Historia añadida con éxito!</string>
+    <string name="cant_get_camera_permission">No se pudo obtener el permiso de la cámara.</string>
+    <string name="cant_get_location_permission">No se pudo obtener el permiso de ubicación.</string>
+    <string name="retry">Reintentar</string>
+    <string name="content_desc_detail_story_photo">Foto detallada de la historia</string>
+    <string name="location_not_found">Ubicación no encontrada. Inténtalo de nuevo</string>
+    <string name="enable_location">Habilitar ubicación</string>
+    <string name="input_invalid">¡Entrada inválida!</string>
+
+</resources>

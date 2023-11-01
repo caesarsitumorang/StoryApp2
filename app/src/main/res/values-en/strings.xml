@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="don_t_have_account">Dont have an account? <font color="#C58BF2">Sign Up</font></string>
+    <string name="login">Log In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome to StoryApp</string>
+    <string name="hey_there">Hey there</string>
+    <string name="password_minimum_character">Password must be at least 8 characters</string>
+    <string name="create_account">Create an account</string>
+    <string name="name">Name</string>
+    <string name="already_have_account">Already have an account? <font color="#C58BF2">Log In</font></string>
+    <string name="login_failed">Login Failed, Please try again..</string>
+    <string name="register_failed">Registration Failed, Please try again..</string>
+    <string name="register_success">Registration Successful, Please Log In..</string>
+    <string name="register">Register</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="please_choose_image">Please choose an image file first.</string>
+    <string name="add_story_success">Story added successfully!</string>
+    <string name="cant_get_camera_permission">Failed to get camera permission.</string>
+    <string name="cant_get_location_permission">Failed to get location permission.</string>
+    <string name="retry">Retry</string>
+    <string name="content_desc_detail_story_photo">Detail Story Image</string>
+    <string name="location_not_found">Location not found. Please try again</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="input_invalid">Invalid Input!</string>
+
+</resources>
